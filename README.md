@@ -4,7 +4,7 @@ A Web application allowing users to log in with username and use a chat room.
 # Purpose of development
 * To get understanding of socket.io(Socket.IO is a JavaScript library for real-time web applications).
 
-# Libraries, Modules, Language & Api used
+# Libraries, Modules, Languages & Framework used
   * Javascript 
   * Socket.io
   * ExpressJs
