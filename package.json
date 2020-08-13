@@ -1,0 +1,15 @@
+{
+  "name": "chatsystem",
+  "version": "1.0.0",
+  "description": "A simple chat that uses NodeJs, ExpressJs, Socket.io and jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Ashutosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
