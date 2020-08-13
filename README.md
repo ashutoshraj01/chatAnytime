@@ -23,6 +23,6 @@ A Web application allowing users to log in with username and use a chat room.
 
  ![screenshot from 2018-07-09 19-24-45](https://github.com/ashutoshraj01/chatAnytime/blob/master/Screenshot%20from%202020-08-13%2021-16-13.png) 
 
-                  
+ -                 
  
  ![screenshot from 2018-07-09 19-24-45](https://github.com/ashutoshraj01/chatAnytime/blob/master/Screenshot%20from%202020-08-13%2021-19-52.png)                 
