@@ -17,7 +17,7 @@ A Web application allowing users to log in with username and use a chat room.
  * run "npm install" command, where repo is extracted (This will download all the dependencies).
  * npm start
  * open your browser and enter http://localhost:3333/
- *  *NodeJs must be pre-installed.
+ * NodeJs must be pre-installed.
 
 ### screenshots of the application
 
