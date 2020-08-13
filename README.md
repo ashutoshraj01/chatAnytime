@@ -19,4 +19,11 @@ A Web application allowing users to log in with username and use a chat room.
  * open your browser and enter http://localhost:3333/
 
 
+### screenshots of the application
+
+ ![screenshot from 2018-07-09 19-24-45](https://github.com/ashutoshraj01/chatAnytime/blob/master/Screenshot%20from%202020-08-13%2021-16-13.png) 
+
+                  --------------------------------
+                  
  
+ ![screenshot from 2018-07-09 19-24-45](https://github.com/ashutoshraj01/chatAnytime/blob/master/Screenshot%20from%202020-08-13%2021-19-52.png)                 
